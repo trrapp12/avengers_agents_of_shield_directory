@@ -103,7 +103,7 @@ body  {
 }
 
 
-h1, h2, h4, h5, h6 {
+h1, h4, h5, h6 {
   font-family: avengeance_heroic_avengerIt, serif;
   font-weight: normal;
   color: #475b62;
@@ -125,14 +125,15 @@ h1{
 h2{ 
   font-size: 1.5rem;
   line-height: 90%;
-  color: #c61c6f;
+  color: #DC1405;
 }
 
 h3{ 
-  margin-top: 0;
-  color: #bd3613;
+    margin-top: 0;
+  color: #000000;
   line-height: 110%;
   margin-bottom: 5px;
+  opacity: .7;
 }
 
 p {
@@ -151,8 +152,8 @@ a.small {
 /* Search Styles */
 
 .search {
-  background: #063642;
-  color: #EEE8D5;
+
+  color: #c0c0c0;
   width: 90%;
   min-width: 320px;
   max-width: 500px;
@@ -164,7 +165,7 @@ a.small {
 }
 
 .search h1 {
-  color: #EEE8D5;
+  color: #c0c0c0;
 }
 
 .btn {
@@ -180,7 +181,7 @@ a.small {
     cursor: pointer;
     border: 1px solid transparent;
     border-radius: 4px;
-    background: #C61C6F;
+    background: #DC1405;
     color: #FCF4DC;
     -webkit-user-select: none;
        -moz-user-select: none;
@@ -242,14 +243,14 @@ a.small {
 /* Artist List Styles */
 
 .artistlist {
-  background: #EEE8D5;
+  background: #FFFFFF;
   width: 50%;
   min-width: 290px;
   max-width:350px;
   margin: 0 auto;
   margin-bottom: 30px;
   border-radius: 0 0 20px 20px;
-  opacity: .95;
+  opacity: .87;
   z-index: 10;
 }
 
@@ -326,6 +327,6 @@ a.small {
 }
 
 .shield {
-    background-image: url("../images/Marvels-Agents-of-S.H.I.E.L.D.-Logo-Wallpaper.jpg")
-
+    background-image: url("../images/Marvels-Agents-of-S.H.I.E.L.D.-Logo-Wallpaper.jpg");
+    background-size: cover;
 }
