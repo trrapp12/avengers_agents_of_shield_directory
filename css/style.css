@@ -3,6 +3,18 @@
 
 @import url("http://fonts.googleapis.com/css?family=Bree+Serif|Merriweather:400,300,700,900|Droid+Sans:400,700");
 
+@font-face {
+    font-family: 'avengeance_heroic_avengerIt';
+    src: url('../font/avengeance_heroic_avenger_at-webfont.eot');
+    src: url('../font/avengeance_heroic_avenger_at-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../font/avengeance_heroic_avenger_at-webfont.woff2') format('woff2'),
+         url('../font/avengeance_heroic_avenger_at-webfont.woff') format('woff'),
+         url('../font/avengeance_heroic_avenger_at-webfont.ttf') format('truetype'),
+         url('../font/avengeance_heroic_avenger_at-webfont.svg#avengeance_heroic_avengerIt') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
 /* Reset Styles */
 
 html, body, div, span, applet, object, iframe,
@@ -82,16 +94,17 @@ html {
   height: auto;
 }
 
+
 body  {
-  font-family: Merriweather, serif;
+  font-family: serif;
   font-size: 1rem;
   line-height: 160%;
   *zoom: 1;
 }
 
 
-h1, h2, h3, h4, h5, h6 {
-  font-family: 'Bree Serif', serif;
+h1, h2, h4, h5, h6 {
+  font-family: avengeance_heroic_avengerIt, serif;
   font-weight: normal;
   color: #475b62;
   text-shadow: 1px 1px rgb(255,255,255, 1);
@@ -99,7 +112,7 @@ h1, h2, h3, h4, h5, h6 {
 
 a {
   color: #145266;
-  font-family: Bree Serif, serif;
+  font-family: avengeance_heroic_avengerIt, serif;
 }
 
 h1{
@@ -309,5 +322,10 @@ a.small {
 }
 
 .artistinfo .btn {
+
+}
+
+.shield {
+    background-image: url("../images/Marvels-Agents-of-S.H.I.E.L.D.-Logo-Wallpaper.jpg")
 
 }
