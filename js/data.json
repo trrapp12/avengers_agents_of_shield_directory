@@ -1,0 +1,56 @@
+[
+  {
+    "name":"Captain America",
+    "shortname":"Captain_America",
+    "super-power":"integrity and super-strength",
+    "bio":"In World War II patriotic soldier Steve Rogers recipient of the 'Super Soldier Serum' became the living symbol of freedom, Captain America. Left for dead while frozen in ice, the star-spangled hero with an indestructible shield awoke years later to continue his never-ending battle for liberty."
+  },
+  {
+    "name":"Nick Fury",
+    "shortname":"Nick_Fury",
+    "super-power":"Cold War hero",
+    "bio":"'One thing I know for sure: Nobody is better suited to protect this world than me and my people.'―Nick Fury to the World Security Council[src].  His extraordinary military and espionage skills won him the invitation to join the Strategic Homeland Intervention, Enforcement and Logistics Division, an international peacekeeping organization led by Alexander Pierce."
+  },
+  {
+    "name":"Iron Man",
+    "shortname":"Iron_Man",
+    "power":"billionair tech playboy status",
+    "bio":"A 'cool exec with a heart of steel,' Tony Stark is the invincible Iron Man, fighting for justice as a modern day knight in high-tech armor."
+  },
+  {
+    "name":"Bruce Banner",
+    "shortname":"Bruce_Banner",
+    "power":"strength",
+    "bio":"Caught in the blast of gamma radiation, brilliant scientist Bruce Banner is cursed to transform in times of stress into the living engine of destruction known as THE INCREDIBLE HULK. "
+  },
+  {
+    "name":"Black Widow",
+    "shortname":"Black_Widow",
+    "power":"covert-ops",
+    "bio":"One of the world's greatest spies and master of disguise, she's the legendary scarlet-haired NATASHA ROMANOVA, the BLACK WIDOW!"
+  },
+  {
+    "name":"Agent Coulson",
+    "shortname":"Agent_ Coulson",
+    "power":"suit and tie",
+    "bio":"Former Special Agent Phil Coulson is the current director of the Strategic Homeland Intervention Enforcement and Logistics Division (S.H.I.E.L.D.) and was formerly Fury's right-hand man."
+  },
+  {
+    "name":"Thor",
+    "shortname":"Thor",
+    "power":"diety",
+    "bio":"Norse God of Thunder! Legendary warrior born! He is the Son of Asgard, the Mighty Thor!"
+  },
+  {
+    "name":"J.A.R.V.I.S",
+    "shortname":"Jar_Vis",
+    "power":"Butler",
+    "bio":"Born of modest origins, he had quickly risen through the ranks of household employ, his loyalty and dedication finally placing him at the apex of domestic service as valiant valet to the Earth's Mightiest Heroes!"
+  },
+  {
+    "name":"Hawk Eye",
+    "shortname":"Hawk_Eye",
+    "power":"Archery",
+    "bio":"Ronin is a world-class archer and marksman. His above average reflexes and hand-eye-coordination make him the most proficient archer ever known."
+  }
+]
