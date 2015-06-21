@@ -1,12 +1,15 @@
 <!DOCTYPE html>
-<html>
-<head lang="en" ng-app>
-    <meta charset="UTF-8">
-    <title></title>
-    <script src="bower_components/angular/angular.min.js"></script>
-</head>
-<body>
-<input type="text" ng-model="name">
-<h2>Welcome {{name}}</h2>
-</body>
+<html lang="en" ng-app>
+    <head>
+        <meta charset="UTF-8">
+        <title>Angular Demo</title>
+        <script src="bower_components/angular/angular.min.js"></script>
+        <script scr="contoller.js"></script>
+    </head>
+    <body>
+        <div ng-controller="MyController">
+            <h1>{{ author.name }}</h1>
+            <p>{{ author.title + "," + author.company }}</p>
+        </div>
+    </body>
 </html>
