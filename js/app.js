@@ -9,7 +9,7 @@ myApp.config(['$routeProvider', function ($routeProvider) {
         templateUrl: 'partials/list.html',
         controller: 'ListController'
     }).
-    when('/details/:itemID', {
+    when('/details/:itemId', {
         templateUrl: 'partials/details.html',
         controller: 'DetailsController'
         }).
