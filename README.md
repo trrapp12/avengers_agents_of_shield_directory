@@ -26,3 +26,21 @@ This project does a couple of really cool things that are able to be applied in 
 * uses deep-linking to navigate through views
 
 
+###I like what I see, what do I do now?
+
+Hire me!  
+
+###Well, it's a little early in the relationship for that much commitment.
+Not convinced yet?  You can see more of my work at: 
+* [Portfolio](http://web-karma.org/)  A web-page I built as a web-dev portfolio
+* [GitHub](https://github.com/trrapp12)  My GitHub account
+* [PyCart](https://github.com/Pycart/PyCart-Backend)  An open-source E-commerce site I've contributed to
+* [Recipe Organizer web-app](http://recipes.web-karma.org/#/recipes)  A Django/RESTAngular web-app with CRUD functionality
+* [CrowdWire](http://crowdwire.net/#/add-event)  Designed the front-end of this app including examples of parallax that are responsive to user handmovement and accelerometer/gyrometer.
+* [Pokemon API](https://github.com/trrapp12/Project-repository/blob/master/Coding%20Bat/pokemon.js) A funtional API call I built.
+* [CodePink](https://github.com/trrapp12/code_pink) A project I'm working on to get CSV files, parse through them, and then use it to blast a hospital wide amber-alert.
+* [LinkedIn](https://www.linkedin.com/pub/trevor-rapp/37/a10/42) My LinkedIn.
+* [Twitter](https://twitter.com/RappTrevor)
+* [Instagram](https://instagram.com/trevor.rapp/) My Instagram with examples of my photography
+* [Photoblog](https://trappphotography.wordpress.com/)
+
