@@ -40,7 +40,7 @@ Not convinced yet?  You can see more of my work at:
 * [Pokemon API](https://github.com/trrapp12/Project-repository/blob/master/Coding%20Bat/pokemon.js) A funtional API call I built.
 * [CodePink](https://github.com/trrapp12/code_pink) A project I'm working on to get CSV files, parse through them, and then use it to blast a hospital wide amber-alert.
 * [LinkedIn](https://www.linkedin.com/pub/trevor-rapp/37/a10/42) My LinkedIn.
-* [Twitter](https://twitter.com/RappTrevor)
-* [Instagram](https://instagram.com/trevor.rapp/) My Instagram with examples of my photography
-* [Photoblog](https://trappphotography.wordpress.com/)
+* [Twitter](https://twitter.com/RappTrevor) My twitter account.
+* [Instagram](https://instagram.com/trevor.rapp/) My Instagram with examples of my photography.
+* [Photoblog](https://trappphotography.wordpress.com/) A photoblog with examples of my photography.
 
