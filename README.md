@@ -45,3 +45,15 @@ Not convinced yet?  You can see more of my work at:
 * [Instagram](https://instagram.com/trevor.rapp/) My Instagram with examples of my photography.
 * [Photoblog](https://trappphotography.wordpress.com/) A photoblog with examples of my photography.
 
+###Okay, okay...I'll check you out. But how can I get back with you?
+
+Awesome!  I'd love to hear from you. 
+
+You can contact me at trrapp@gmail.com.
+
+
+
+
+CHEERS!
+
+--Trevor Rapp
