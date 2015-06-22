@@ -30,7 +30,8 @@ This project does a couple of really cool things that are able to be applied in 
 
 Hire me!  
 
-###Well, it's a little early in the relationship for that much commitment.
+###What if I'm not ready for the level of commitment?.
+
 Not convinced yet?  You can see more of my work at: 
 * [Portfolio](http://web-karma.org/)  A web-page I built as a web-dev portfolio
 * [GitHub](https://github.com/trrapp12)  My GitHub account
