@@ -1,8 +1,9 @@
-var myApp = angular.module('myApp', []);
+var agentControllers = angular.module('agentControllers', []);
 
-myApp.controller('MyController', ['$scope', '$http', function MyController($scope, $http) {
+agentControllers.controller('ListController', ['$scope', '$http', function ($scope, $http) {
    $http.get('js/data.json').success(function(data) {
        $scope.artists = data;
+       $scope.artistOrder = "name";
    });
 }]);
 
