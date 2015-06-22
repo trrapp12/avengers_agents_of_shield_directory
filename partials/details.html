@@ -1,0 +1,12 @@
+<section class="artistinfo">
+    <!--look for a possible conflict with the name ng-model artists.  It might be under agents instead-->
+    <div class="artist cf" ng-model="artists">
+        <h1>{{artists[whichItem].name}}</h1>
+        <div class="info">
+            <h3>{{artists[whichItem].power}}</h3>
+            <img ng-src="images/{{artists[whichItem].shortname}}_tn.jpg" alt="Photo of {{artists[whichItem].name}}">
+            <div class="bio">{{artists[whichItem].bio}}</div>
+        </div>
+    </div>
+    <a href="index.html">&laquo; Back to search</a>
+</section>
