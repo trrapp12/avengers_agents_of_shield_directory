@@ -1,6 +1,8 @@
 <section class="artistinfo">
     <!--look for a possible conflict with the name ng-model artists.  It might be under agents instead-->
     <div class="artist cf" ng-model="artists">
+        <a href="#/details/{{prevItem}}" class="btn btn-left">&lt;</a>
+        <a href="#/details/{{nextItem}}" class="btn btn-right">&gt;</a>
         <h1>{{artists[whichItem].name}}</h1>
         <div class="info">
             <h3>{{artists[whichItem].power}}</h3>
@@ -8,5 +10,5 @@
             <div class="bio">{{artists[whichItem].bio}}</div>
         </div>
     </div>
-    <a href="index.html">Back to search</a>
+    <a href="#/index">Back to search</a>
 </section>
