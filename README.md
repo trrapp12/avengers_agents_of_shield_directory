@@ -1,7 +1,7 @@
 # avengers_agents_of_shield_directory
 ![Avengers](https://cloud.githubusercontent.com/assets/11747875/8291590/bcc1441a-18e7-11e5-90a9-4509ed8f53ad.jpg)
 
-*available to view at (http://avengers.web-karma.org/#/list)
+*Take a look at it at http://avengers.web-karma.org/#/list
 #####Trevor Rapp
 
 #####--Because I love Avengers--
