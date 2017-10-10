@@ -22,15 +22,11 @@ I used the parallax.js library from [Matthew Wagerfield](http://matthew.wagerfie
 - [x] Uses two-way data binding to make queries
 - [x] Uses deep-linking to navigate through views
 - [x] Use of CSS3 and HTML5.
-<br/>
-<br/>
 
 ### Project published at: 
 ---
 
 [Avengers](http://avengers.web-karma.org/#/list8)
-<br/>
-<br/>
 
 ### More Information:
 ---
