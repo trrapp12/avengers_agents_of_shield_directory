@@ -1,7 +1,7 @@
 # avengers_agents_of_shield_directory
 ![Avengers](https://cloud.githubusercontent.com/assets/11747875/8291590/bcc1441a-18e7-11e5-90a9-4509ed8f53ad.jpg)
 
-###Description:
+### Description:
 ---
 
 The parallax effect assigns x, y, and z values to separate graphic elements and then calculates actions and movement in response to the movement of the mouse or to the tilt of the tablet if you are on a tablet or phone with an accelerometer.  
@@ -10,7 +10,7 @@ I used the parallax.js library from [Matthew Wagerfield](http://matthew.wagerfie
 <br/>
 <br/>
 
-###Project demonstrates the following:
+### Project demonstrates the following:
 ---
 
 - [x] Utilizes the concept of modules to create more readable and manageable code that applies DRY principles.
@@ -25,14 +25,14 @@ I used the parallax.js library from [Matthew Wagerfield](http://matthew.wagerfie
 <br/>
 <br/>
 
-###Project published at: 
+### Project published at: 
 ---
 
 [Avengers](http://avengers.web-karma.org/#/list8)
 <br/>
 <br/>
 
-###More Information:
+### More Information:
 ---
 
 \**For more information see my [Portfolio] (), [Webpage](http://web-karma.org),[LinkedIn](https://www.linkedin.com/in/trevor-rapp-042a1037), [Blog](http://web-karma.net), or return to my [Github](https://github.com/trrapp12)*
