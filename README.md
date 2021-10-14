@@ -21,9 +21,11 @@
 ### Description:
 ---
 
-The parallax effect assigns x, y, and z values to separate graphic elements and then calculates actions and movement in response to the movement of the mouse or to the tilt of the tablet if you are on a tablet or phone with an accelerometer.  
+TEAM CAP ALL THE WAY!!!
 
-I used the parallax.js library from [Matthew Wagerfield](http://matthew.wagerfield.com/parallax/) for the javascript. Therefore I cannot take credit for the logic that controls the motion.  
+I love anything Avengers, and this was a great way to practice the use of ng-route and MVC architecture.
+
+To use, try typing in the name of an avenger, and then clicking on the name you find.  You can then navigate through the cards to find more information.
 <br/>
 <br/>
 
