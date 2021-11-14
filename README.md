@@ -2,7 +2,6 @@
 ![avengers](https://user-images.githubusercontent.com/11747875/32584480-ab953ce2-c4b5-11e7-8adc-797353a02c7c.gif)
 
 
-[Click me](http://www.google.com){: .btn}
 <br>
 <br>
 
