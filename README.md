@@ -45,7 +45,7 @@ To use, try typing in the name of an avenger, and then clicking on the name you 
 ### Project published at: 
 ---
 
-[Avengers](http://avengers.web-karma.org/#/list8)
+[Avengers](http://trrapp12.github.io/avengers_agents_of_shield_directory/)
 
 ### More Information:
 ---
