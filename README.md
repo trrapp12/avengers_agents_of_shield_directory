@@ -1,9 +1,12 @@
 # avengers_agents_of_shield_directory 
-<br>
-[![image](https://user-images.githubusercontent.com/11747875/141672968-9bb98e76-61ea-47d9-838a-973d30b967c9.png)](http://trrapp12.github.io/avengers_agents_of_shield_directory/)
-<br>
-![avengers](https://user-images.githubusercontent.com/11747875/32584480-ab953ce2-c4b5-11e7-8adc-797353a02c7c.gif)
 
+<br>
+
+[![image](https://user-images.githubusercontent.com/11747875/141672968-9bb98e76-61ea-47d9-838a-973d30b967c9.png)](http://trrapp12.github.io/avengers_agents_of_shield_directory/)
+
+<br>
+
+![avengers](https://user-images.githubusercontent.com/11747875/32584480-ab953ce2-c4b5-11e7-8adc-797353a02c7c.gif)
 
 <br>
 <br>
