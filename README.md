@@ -1,10 +1,10 @@
 # avengers_agents_of_shield_directory
 ![avengers](https://user-images.githubusercontent.com/11747875/32584480-ab953ce2-c4b5-11e7-8adc-797353a02c7c.gif)
 
-<br>
-<br>
 
-<button name="button" onclick="http://www.google.com">Click me</button>
+[Click me](http://www.google.com){: .btn}
+<br>
+<br>
 
 ---
 
