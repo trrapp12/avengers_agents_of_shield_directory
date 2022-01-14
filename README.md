@@ -25,18 +25,21 @@
 ---
 
 ### Description:
----
+
 
 TEAM CAP ALL THE WAY!!!
 
 I love anything Avengers, and this was a great way to practice the use of ng-route and MVC architecture.
 
 To use, try typing in the name of an avenger, and then clicking on the name you find.  You can then navigate through the cards to find more information.
-<br/>
-<br/>
+<br>
+<br>
+
+---
+
 
 ### Project demonstrates the following:
----
+
 
 - [x] Utilizes the concept of modules to create more readable and manageable code that applies DRY principles.
 - [x] Utilized MVC/MVW architecture
@@ -47,14 +50,22 @@ To use, try typing in the name of an avenger, and then clicking on the name you 
 - [x] Uses two-way data binding to make queries
 - [x] Uses deep-linking to navigate through views
 - [x] Use of CSS3 and HTML5.
+<br>
+<br>
+
+---
 
 ### Project published at: 
----
+
 
 [Avengers](http://trrapp12.github.io/avengers_agents_of_shield_directory/)
+<br>
+<br>
+
+---
 
 ### More Information:
----
+
 
 \**For more information see my [LinkedIn](https://www.linkedin.com/in/trevor-rapp-042a1037) or return to my [Github](https://github.com/trrapp12)*
 
