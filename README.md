@@ -22,13 +22,15 @@ https://user-images.githubusercontent.com/11747875/149467831-98f41dce-fd04-452c-
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
-<br>
-<br>
+<br/>
 
 ---
 
 ### Description:
 
+> "YOU GET HURT, HURT ’EM BACK. YOU GET KILLED …  WALK IT OFF.”
+>
+> -- Steve Rogers, Captain America
 
 TEAM CAP ALL THE WAY!!!
 
@@ -41,7 +43,7 @@ To use, try typing in the name of an avenger, and then clicking on the name you 
 ---
 
 
-### Project demonstrates the following:
+### THIS PROJECT DEMONSTRATES:
 
 
 - [x] Utilizes the concept of modules to create more readable and manageable code that applies DRY principles.
@@ -53,22 +55,22 @@ To use, try typing in the name of an avenger, and then clicking on the name you 
 - [x] Uses two-way data binding to make queries
 - [x] Uses deep-linking to navigate through views
 - [x] Use of CSS3 and HTML5.
-<br>
-<br>
 
 ---
 
-### Project published at: 
+### CHALLENGES I OVERCAME...
 
-
-[Avengers](http://trrapp12.github.io/avengers_agents_of_shield_directory/)
-<br>
-<br>
+* This was my first time working with a MVC paradigm, so I had to take some time to wrap my head around that.
 
 ---
 
-### More Information:
+### MY OWN PERSONAL CONTRIBUTIONS INCLUDED 
 
+- [X] All work is completely my own.
 
-\**For more information see my [LinkedIn](https://www.linkedin.com/in/trevor-rapp-042a1037) or return to my [Github](https://github.com/trrapp12)*
+---
+
+### YOU CAN FIND ME AT:
+
+\**For more information see my [LinkedIn](https://www.linkedin.com/in/trevor-rapp-042a1037), or return to my [Github](https://github.com/trrapp12)*
 
