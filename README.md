@@ -1,7 +1,10 @@
 # Avengers, Agents of Shield (directory)
 
 
-##### Contributors: Trevor Rapp
+#### Contributors: Trevor Rapp, Bob Ziroll
+
+*this was completed as part of a bootcamp curriculum for Coding Campus, now [V-School](https://vschool.io/).*
+
 <br>
 
 [![View Project](https://user-images.githubusercontent.com/11747875/141673261-97afe2c7-735b-4740-b976-3719ba9a01db.png)](http://trrapp12.github.io/avengers_agents_of_shield_directory/)  
@@ -37,14 +40,13 @@ TEAM CAP ALL THE WAY!!!
 I love anything Avengers, and this was a great way to practice the use of ng-route and MVC architecture.
 
 To use, try typing in the name of an avenger, and then clicking on the name you find.  You can then navigate through the cards to find more information.
-<br>
+
 <br>
 
 ---
 
 
-### THIS PROJECT DEMONSTRATES:
-
+### THIS PROJECT DEMONSTRATES
 
 - [x] Utilizes the concept of modules to create more readable and manageable code that applies DRY principles.
 - [x] Utilized MVC/MVW architecture
@@ -56,17 +58,39 @@ To use, try typing in the name of an avenger, and then clicking on the name you 
 - [x] Uses deep-linking to navigate through views
 - [x] Use of CSS3 and HTML5.
 
+<br/>
+
 ---
 
 ### CHALLENGES I OVERCAME...
 
 * This was my first time working with a MVC paradigm, so I had to take some time to wrap my head around that.
 
+<br/>
+
 ---
 
 ### MY OWN PERSONAL CONTRIBUTIONS INCLUDED 
 
-- [X] All work is completely my own.
+- [X] I completed this a part of a teacher lead course.
+
+<br/>
+
+--- 
+
+### PERSONAL CONTRIBUTIONS
+
+- [X] completing the project
+
+<br/>
+
+---
+
+### ATTRIBUTIONS
+
+* *this was completed as part of a bootcamp curriculum for Coding Campus, now [V-School](https://vschool.io/).*
+
+<br/>
 
 ---
 
